@@ -2,7 +2,7 @@
 # Cybersecurity Awareness Bot - Part 1
 
 **Student:** Saviour Mkhatswa  
-**Student Number:** ST1489983  
+**Student Number:** ST10489983  
 **Module:** PROG6221 - Programming 2A  
 **Year:** 2026
 
