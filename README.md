@@ -106,4 +106,48 @@ https://github.com/Saviour-04/CybersecurityChatbot
 
 ---
 
+# CybersecurityChatbot - Setup & Running Guide
+
+## How to Run the Project
+
+### Prerequisites
+Before you begin, ensure you have the following installed:
+
+1. **Visual Studio Community** (2019 or later)
+   - Download from: https://visualstudio.microsoft.com/downloads/
+   - During installation, select ".NET desktop development" workload
+
+2. **.NET Framework** (4.7.2 or later) OR **.NET Core** (3.1 or later)
+   - Usually included with Visual Studio installation
+
+3. **Git** (Optional - for version control)
+   - Download from: https://git-scm.com/downloads
+
+---
+
+ Run Directly from Visual Studio
+
+### Step 1: Open the Project
+1. Launch **Visual Studio Community**
+2. Click **File** → **Open** → **Project/Solution**
+3. Navigate to your project folder
+4. Select the `.csproj` file (e.g., `ChatbotApplication.csproj`)
+5. Click **Open**
+
+### Step 2: Build the Project
+1. In Visual Studio menu, click **Build** → **Build Solution**
+   - Or press `Ctrl + Shift + B`
+2. Check the Output window (View → Output) for any errors
+3. If build succeeds, you'll see: "Build: 1 succeeded"
+
+### Step 3: Run the Application
+1. Click the **Start** button (green triangle) in the toolbar
+   - Or press `F5` (with debugging)
+   - Or press `Ctrl + F5` (without debugging)
+2. A console window will open with the application
+
+---
+
+
+
 **Submitted by:** Saviour Mkhatswa (ST1489983)
