@@ -1,4 +1,4 @@
-# CybersecurityChatbot
+
 # Cybersecurity Awareness Bot - Part 1
 
 **Student:** Saviour Mkhatswa  
@@ -88,9 +88,6 @@ CybersecurityAwarenessBot/
 https://github.com/Saviour-04/CybersecurityChatbot
 ---
 
-## Video Presentation
-
-[YouTube Link Here]
 
 ---
 
