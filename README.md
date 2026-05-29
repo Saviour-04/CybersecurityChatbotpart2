@@ -89,7 +89,7 @@ The chatbot adapts its response without requiring the user to repeat the origina
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ST10489983/Cybersecurity-Chatbot-POE.git
+git clone https:https://github.com/Saviour-04/CybersecurityChatbotpart2/edit/master/README.md
 cd Cybersecurity-Chatbot-POE
 ```
 
