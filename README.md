@@ -4,7 +4,7 @@
 
 - **Module:** Programming 2A (PROG6221)  
 - **Assessment:** POE Part 2  
-- **Student Name:** Same Mkhatshwa  
+- **Student Name:** Saviour Mkhatshwa  
 - **Student Number:** ST10489983  
 - **Year:** 2026  
 
@@ -142,24 +142,24 @@ When you launch the application:
 ---
 
 ## Project Structure (Part 2)
+Solution 'WinFormsApp1' (1 of 1)
+└── Cybersecurity Awareness
+    ├── Dependencies
+    ├── Assets
+    │   └── greeting.wav
+    ├── Models
+    │   └── UserProfile.cs
+    ├── Services
+    │   ├── Audioplayer.cs
+    │   ├── ChatbotService.cs
+    │   ├── MemoryServices.cs
+    │   ├── RespondService.cs
+    │   └── SentimentService.cs
+    ├── Form1.cs
+    ├── Form1.Designer.cs
+    ├── Form1.resx
+    └── Program.cs
 
-```
-CybersecurityChatbot/
-├── Program.cs                 # Entry point – launches the WinForms application
-├── Forms/
-│   └── MainForm.cs            # GUI layout, event handlers
-├── Logic/
-│   ├── ChatbotLogic.cs        # Keyword recognition, random responses, conversation flow
-│   ├── SentimentAnalyzer.cs   # Detects user sentiment
-│   └── MemoryManager.cs       # Stores name, interests, conversation context
-├── Audio/
-│   └── greeting.wav           # Voice greeting file
-├── ASCII/
-│   └── logo.txt               # ASCII art for GUI header
-├── Resources/                 # Icons, additional assets
-├── CybersecurityChatbot.csproj
-└── README.md                  # This file
-```
 
 ---
 
@@ -191,8 +191,6 @@ The workflow:
 - Restores dependencies  
 - Builds in Release configuration  
 
-Status badge:  
-[![.NET Build](https://github.com/ST10489983/Cybersecurity-Chatbot-POE/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ST10489983/Cybersecurity-Chatbot-POE/actions)
 
 ---
 
@@ -209,19 +207,7 @@ An **unlisted YouTube video** has been submitted alongside this code. The video 
 
 ---
 
-## Known Limitations & Future Work
 
-### Part 2 Limitations
-- Sentiment detection is rule‑based (keyword matching) – not full NLP.  
-- Memory is limited to current session (no persistent storage yet).  
-- Windows Forms only – no cross‑platform support.
-
-### Planned for Part 3
-- Task assistant with database (MySQL) storage.  
-- Cybersecurity quiz game (10+ questions).  
-- Activity log (records user actions).  
-- Improved NLP simulation.  
-- Reminders and task management.
 
 ---
 
@@ -245,16 +231,12 @@ Pieterse, H. 2021. The Cyber Threat Landscape in South Africa: A 10-Year Review.
 
 ## Declaration
 
-I, **Same Mkhatshwa** (ST10489983), hereby declare that this is my own original work. All sources used have been appropriately acknowledged. This submission follows The IIE’s intellectual integrity and plagiarism policies.
+I, **Saviour Mkhatshwa** (ST10489983), hereby declare that this is my own original work. All sources used have been appropriately acknowledged. This submission follows The IIE’s intellectual integrity and plagiarism policies.
 
 ---
 
-## Contact
-
-For any queries regarding this POE submission, please contact the Programming 2A module lecturer.
 
 ---
 
-**Submission Date:** 2026  
 
-**GitHub Repository:** `https://github.com/ST10489983/Cybersecurity-Chatbot-POE` (replace with your actual repo URL)
+**GitHub Repository:**https://github.com/Saviour-04/CybersecurityChatbotpart2/edit/master/README.md
